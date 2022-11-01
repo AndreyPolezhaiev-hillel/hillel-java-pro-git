@@ -31,7 +31,7 @@ public class Employee{
             System.out.print(info);
         }
 
-    public String getName() {
+    public String getName () {
         return name;
     }
 

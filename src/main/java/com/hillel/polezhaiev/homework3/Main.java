@@ -1,7 +1,7 @@
 package com.hillel.polezhaiev.homework3;
 
 
-public class Main {
+public class Main{
         public static void main(String[] args) {
             Employee person1 = new Employee("Andrey", "Polezhaiev", "junior java developer",
                     "hillelpolezhaiev@gmail.com", "097684987", 18);
