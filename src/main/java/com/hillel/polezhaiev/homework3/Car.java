@@ -1,6 +1,6 @@
 package com.hillel.polezhaiev.homework3;
 
-    public class Car{
+public class Car{
 
         public void start(){
             startElectricity();

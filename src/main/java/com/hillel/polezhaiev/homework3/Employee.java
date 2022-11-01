@@ -1,6 +1,6 @@
 package com.hillel.polezhaiev.homework3;
 
-    public class Employee extends Car{
+public class Employee{
 
         private String name;
         private String surname;
@@ -31,5 +31,28 @@ package com.hillel.polezhaiev.homework3;
             System.out.print(info);
         }
 
+    public String getName() {
+        return name;
     }
+
+    public String getSurname() {
+        return surname;
+    }
+
+    public String getPosition() {
+        return position;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public String getNumber() {
+        return number;
+    }
+
+    public int getAge() {
+        return age;
+    }
+}
 
